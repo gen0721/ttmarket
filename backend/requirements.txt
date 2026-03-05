@@ -1,0 +1,5 @@
+FastAPI
+psycopg2
+redis
+cryptobot
+python-telegram-bot
